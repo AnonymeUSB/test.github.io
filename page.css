@@ -1,0 +1,71 @@
+#bande_noire_haut {
+    background-color: grey;
+    position: absolute;
+    height: : 150px;
+    width: 1345px;
+    top: 0px;
+    left: 0px;
+}
+
+#image1 {
+	height: 500px;
+	width: 1345px;
+	background-color: black;
+	top: -15px;
+	left: 0px;
+	position: absolute;
+}
+
+#titre {
+	color: red;
+	left: 450px;
+	top: 100px;
+	position: absolute;
+	font-family: Arial;
+	font-size: 30px;
+}
+
+#sous-titre {
+    color: black;
+    position: absolute;
+    top: 600px;
+}
+
+#text1 {
+	color: black;
+	top: 650px;
+	position: absolute;
+}
+
+#button_down {
+	top: 730px;
+	position: absolute;
+	width: 300px;
+	left: 500px;
+}
+
+#image2 {
+	position: absolute;
+	top: 850px;
+}
+
+#image3 {
+	position: absolute;
+	top: 850px;
+	left: 350px;
+	width: 300px;
+}
+
+#image4 {
+	position: absolute;
+	top: 830px;
+	left: 700px;
+}
+
+#bande_noire_bas {
+	position: absolute;
+	background-color: grey;
+	top: 1350px;
+	width: 1350px;
+	height: 30px;
+}
